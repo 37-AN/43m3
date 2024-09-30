@@ -1,4 +1,4 @@
-# Morphic
+# 43m3
 
 An AI-powered search engine with a generative UI.
 
@@ -41,7 +41,7 @@ Please note that there are differences between this repository and the official 
 Fork the repo to your Github account, then run the following command to clone the repo:
 
 ```
-git clone git@github.com:[YOUR_GITHUB_ACCOUNT]/morphic.git
+git clone git@github.com:[YOUR_GITHUB_ACCOUNT]/43m3.git
 ```
 
 ### 2. Install dependencies
